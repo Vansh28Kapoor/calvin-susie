@@ -1,0 +1,1 @@
+Checkpoint commit was successful to gs://rail-tpus-kevin-central2/logs/dlimp-diffusion/calvin_noaug_2023.10.05_23.39.11/5000/params_ema

@@ -146,3 +146,11 @@ calvin_venv/*
 dataset/*
 
 experiments
+
+# Large model checkpoints
+checkpoints/*/checkpoint
+checkpoints/*/*.ckpt
+*.h5
+*.pkl
+*.pth
+*.safetensors

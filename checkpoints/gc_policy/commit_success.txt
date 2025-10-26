@@ -1,0 +1,1 @@
+Checkpoint commit was successful to gs://rail-tpus-pranav/log/jaxrl_m_calvin_gcbc/gcbc_diffusion_policy_20231012_190044/checkpoint_200000
